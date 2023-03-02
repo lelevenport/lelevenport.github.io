@@ -1,7 +1,7 @@
 {
     "xiaofeng481": {
         "url": "https://www.80jili.com?code=rWrHyahB0I",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
          "countryCodes": ["LA","PH"],
         "adjustParams": [
@@ -37,7 +37,7 @@
     },
     "xiaofeng482": {
         "url": "https://www.80jili.com?code=N41G9RMr7D",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
         "countryCodes": ["LA","PH"],
         "adjustParams": [
@@ -143,7 +143,7 @@
     },
     "xiaofeng485": {
         "url": "https://www.80jili.com?code=Oc2EGUrOFX",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
         "countryCodes": ["LA","PH"],
         "adjustParams": [
